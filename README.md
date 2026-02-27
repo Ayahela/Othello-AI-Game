@@ -36,11 +36,4 @@ The AI evaluates board states and chooses the move that maximizes its advantage 
 - Object-Oriented Programming
 - Game Tree Search
 
----
-
-## ▶ How to Run
-
-1. Install Python 3
-2. Run the file:
-
 
